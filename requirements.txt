@@ -61,7 +61,6 @@ packaging==26.3
 pandas==3.0.6
 pillow==12.3.0
 pinecone==9.1.0
-pinecone-client==6.0.0
 pinecone-plugin-interface==0.0.7
 platformdirs==4.12.1
 propcache==0.5.4
