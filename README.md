@@ -21,7 +21,4 @@ User Question → Semantic Retrieval → GPT-4o Generation → Cited Answer
 ## Data
 Kenya health surveillance data covering malaria, TB, HIV, maternal health, and non-communicable diseases.
 
-## Portfolio Context
-This project is part of a Computational Epidemiology and Health Data Science portfolio under ZENIK.AI — building production-grade AI systems for African health contexts.
-
 GitHub: github.com/Mwauramos | Contact: mwauramos.n@gmail.com
